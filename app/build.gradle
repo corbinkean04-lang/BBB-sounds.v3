@@ -4,13 +4,14 @@ plugins {
 
 android {
     namespace 'com.bbb.sounds'
+
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.bbb.sounds"
+        applicationId 'com.bbb.sounds'
         minSdk 23
         targetSdk 35
         versionCode 1
-        versionName "1.0"
+        versionName '1.0'
     }
 }
