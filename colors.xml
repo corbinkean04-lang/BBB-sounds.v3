@@ -1,0 +1,8 @@
+<resources>
+    <color name="bbb_black">#050505</color>
+    <color name="bbb_panel">#101010</color>
+    <color name="bbb_red">#FF2020</color>
+    <color name="bbb_white">#FFFFFF</color>
+    <color name="bbb_gray">#A8A8A8</color>
+    <color name="bbb_dark_gray">#242424</color>
+</resources>

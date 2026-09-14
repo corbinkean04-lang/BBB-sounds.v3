@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.BBBSounds" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorAccent">@color/bbb_red</item>
+        <item name="android:navigationBarColor">@color/bbb_black</item>
+        <item name="android:statusBarColor">@color/bbb_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
